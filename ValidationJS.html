@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello DOM</title>
+<script type="text/javascript">
+function showme(){
+var x = "hello are you there ";
+//create a pattern to search in x
+var pattern= /h+/g;
+var display = x.match(pattern);
+document.getElementById("show").innerHTML= display;
+}
+ </script>
+    </head>
+    <body>
+        <form onsubmit="">
+            <div id="div1">THIS IS TO TEST REG EXPRESSION</div>
+            <br>
+            <p id="url"></p>
+            <br>
+            <p id="show"></p>
+        
+        <input type="button" value="Regi" onclick="showme()">
+        </form>
+    </body>
+</html>

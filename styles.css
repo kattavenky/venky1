@@ -1,0 +1,26 @@
+
+*
+{
+margin: 0px;
+padding: 0px;
+}
+body
+{
+font-family: 'Courier New', Courier, monospace;
+font-size: 30px;
+}
+#outercontainer
+{
+    background-color: #ffccee;
+    width: 80%;
+    margin: auto;
+    height: 750px;
+
+}
+#header
+{
+    background-color: aquamarine;
+    width: 80%;
+    margin: auto;
+    height: 150px;
+}
