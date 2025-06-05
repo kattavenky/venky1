@@ -1,0 +1,11 @@
+E:\HCL\5june\ConsoleApp1GitHub\ConsoleApp1GitHub\bin\Debug\ConsoleApp1GitHub.exe.config
+E:\HCL\5june\ConsoleApp1GitHub\ConsoleApp1GitHub\bin\Debug\ConsoleApp1GitHub.exe
+E:\HCL\5june\ConsoleApp1GitHub\ConsoleApp1GitHub\bin\Debug\ConsoleApp1GitHub.pdb
+E:\HCL\5june\ConsoleApp1GitHub\ConsoleApp1GitHub\obj\Debug\ConsoleApp1GitHub.csproj.AssemblyReference.cache
+E:\HCL\5june\ConsoleApp1GitHub\ConsoleApp1GitHub\obj\Debug\ConsoleApp1GitHub.csproj.CoreCompileInputs.cache
+E:\HCL\5june\ConsoleApp1GitHub\ConsoleApp1GitHub\obj\Debug\ConsoleApp1GitHub.exe
+E:\HCL\5june\ConsoleApp1GitHub\ConsoleApp1GitHub\obj\Debug\ConsoleApp1GitHub.pdb
+E:\HCL\5june\ConsoleApp1GitHub\ConsoleApp1GitHub\bin\Debug\ConsoleApp1GitHub.exe.manifest
+E:\HCL\5june\ConsoleApp1GitHub\ConsoleApp1GitHub\bin\Debug\ConsoleApp1GitHub.application
+E:\HCL\5june\ConsoleApp1GitHub\ConsoleApp1GitHub\obj\Debug\ConsoleApp1GitHub.exe.manifest
+E:\HCL\5june\ConsoleApp1GitHub\ConsoleApp1GitHub\obj\Debug\ConsoleApp1GitHub.application
